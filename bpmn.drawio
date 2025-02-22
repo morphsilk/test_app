@@ -1,9 +1,27 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0" version="26.0.16">
   <diagram name="Страница — 1" id="pCkd48scm71bt7cH6yc5">
-    <mxGraphModel>
+    <mxGraphModel dx="1188" dy="658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="iKIbwc_NarHfL5H4dCZG-1" value="Pool" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="50" y="230" width="910" height="620" as="geometry" />
+        </mxCell>
+        <mxCell id="iKIbwc_NarHfL5H4dCZG-2" value="Система" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="iKIbwc_NarHfL5H4dCZG-1">
+          <mxGeometry x="20" width="890" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="iKIbwc_NarHfL5H4dCZG-7" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=standard;symbol=general;" vertex="1" parent="iKIbwc_NarHfL5H4dCZG-2">
+          <mxGeometry x="60" y="50" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iKIbwc_NarHfL5H4dCZG-3" value="Банк" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="iKIbwc_NarHfL5H4dCZG-1">
+          <mxGeometry x="20" y="240" width="890" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="iKIbwc_NarHfL5H4dCZG-4" value="Пользователь" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="iKIbwc_NarHfL5H4dCZG-1">
+          <mxGeometry x="20" y="410" width="890" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="iKIbwc_NarHfL5H4dCZG-5" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Verdana&quot;&gt;Информационно-аналитическая система учёта, анализа и контроля финансов семьи&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="50" y="160" width="820" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
